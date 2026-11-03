@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: YOUR_USERNAME
+          GITHUB_USERNAME: phanthieuhoa
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
